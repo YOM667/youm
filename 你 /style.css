@@ -13,8 +13,10 @@ body{
 	width: 400px;
 	height: 550px;
 	float: right;
-	background-color: whitesmoke;
-	border-color: black;
+	border-radius: 15px;
+	background: linear-gradient(145deg, #c4d8dd, #e9ffff);
+	box-shadow:  20px 20px 55px #7c898c,
+				 -20px -20px 55px #ffffff;
 }
 
 #image{
@@ -48,4 +50,6 @@ body{
 	margin: 0 auto;
 	margin: 8px;
 }
+
+
 
