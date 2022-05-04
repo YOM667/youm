@@ -1,0 +1,51 @@
+
+body{
+	background-image: linear-gradient(to right,#8EC5FC,#E0C3FC,#FFE17F);
+	margin:0 auto;
+}
+	
+#desc{
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
+#card{
+	width: 400px;
+	height: 550px;
+	float: right;
+	background-color: whitesmoke;
+	border-color: black;
+}
+
+#image{
+	text-align:center;
+	
+}
+#head{
+	border-radius: 50%;
+	width: 110px;
+	height: 110px;
+}
+#info{
+	border-radius: 65px;
+	background: linear-gradient(145deg, #cdcddd, #f4f4ff);
+	box-shadow:  21px 21px 42px #b2b2bf,
+             -21px -21px 42px #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 15px;
+}
+#name{
+	margin: 0 auto;
+	margin: 8px;
+}
+#hobby{
+	margin: 0 auto;
+	margin: 8px;
+}
+#programAge{
+	margin: 0 auto;
+	margin: 8px;
+}
+
